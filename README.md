@@ -4,11 +4,11 @@
 - Nama: Ahmad Nurikhsan
 - NIM: 2225250042
 - Kelas: 3E
-Mata Kuliah: Algoritma dan Pemrograman  
-Program Studi: S1 Pendidikan Matematika FKIP Untirta  
-Pertemuan: 14 — Perancangan Proyek Program Sederhana  
-Dosen: Dr. Aan Hendrayana, S.Si., M.Pd.  
-Tahun Ajaran: 2026/2027 Ganjil
+- Mata Kuliah: Algoritma dan Pemrograman  
+- Program Studi: S1 Pendidikan Matematika FKIP Untirta  
+- Pertemuan: 14 — Perancangan Proyek Program Sederhana  
+- Dosen: Dr. Aan Hendrayana, S.Si., M.Pd.  
+- Tahun Ajaran: 2026/2027 Ganjil
 
 ## Deskripsi
 Program ini dirancang untuk membaca data nilai matematika, memvalidasi nilai, menghitung statistik kelas, menentukan ketuntasan berdasarkan KKM, dan menyimpan laporan.
