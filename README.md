@@ -1,6 +1,9 @@
 
 # Proyek Rekap dan Analisis Nilai Matematika Kelas
 
+- Nama: Ahmad Nurikhsan
+- NIM: 2225250042
+- Kelas: 3E
 Mata Kuliah: Algoritma dan Pemrograman  
 Program Studi: S1 Pendidikan Matematika FKIP Untirta  
 Pertemuan: 14 — Perancangan Proyek Program Sederhana  
